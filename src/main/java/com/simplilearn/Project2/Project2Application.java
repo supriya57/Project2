@@ -1,4 +1,4 @@
-package com.simplilearn.Project1;
+package com.simplilearn.Project2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
