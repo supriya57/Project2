@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Project1Application {
+public class Project2Application {
     public static double getWordCount(String review){
         	int count = 0;
 
@@ -15,7 +15,7 @@ public class Project1Application {
    	 return count;
     }
     public static void main(String[] args) {
-   	 SpringApplication.run(ReviewAnalyserApplication.class, args);
+   	 SpringApplication.run(Project2Application.class, args);
     }
 
 }
